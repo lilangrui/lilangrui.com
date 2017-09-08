@@ -58,5 +58,5 @@ hugo server --theme=hugo-icarus-theme --buildDrafts
 
 ##生成web
 ```
-hugo --theme=hugo-icarus-theme --baseUrl="http://lilangrui.github.io/"
+hugo --theme=hugo-icarus-theme --baseUrl="https://lilangrui.github.io/"
 ```

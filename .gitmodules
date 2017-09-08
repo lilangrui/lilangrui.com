@@ -6,4 +6,7 @@
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
 [submodule "themes/hugo-icarus-theme"]
 	path = themes/hugo-icarus-theme
-	url = https://github.com/digitalcraftsman/hugo-icarus-theme
+	url = https://github.com/lilangrui/hugo-icarus-theme
+[submodule "themes/hugo-pacman-theme"]
+	path = themes/hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme

@@ -1,16 +1,7 @@
-baseurl = "http://lilangrui.com/"
-languageCode = "zh-CN"
-title = "叮叮铛"
-# Enable comments by entering your Disqus shortname
-disqusShortname = "朗睿"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-# Define the number of posts per page
-paginate = 10
-footnotereturnlinkcontents = "↩"
+baseURL = "http://lilangrui.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
 theme = "hugo-icarus-theme"
-# Comment the themesDir option if you use this theme in production
-
 
 [permalinks]
     post = "/:year/:month/:day/:slug"

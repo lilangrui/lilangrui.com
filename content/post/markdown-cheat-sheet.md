@@ -23,7 +23,7 @@ Paragraphs must be separated by a blank line. Basic formatting of *italics* and 
 
 ## Lists
 
-![](./_image/QQ图片20170811142859.jpg)
+![](../../image/QQ图片20170811142859.jpg)
 
 ### Ordered list
 
